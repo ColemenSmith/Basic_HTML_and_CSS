@@ -4,4 +4,7 @@ p {
 	font-size: large;
 	text-align: center;
 }
+h1 {
+	text-shadow: 3px 5px green;
+}
 /* how to write comments in CSS*/
