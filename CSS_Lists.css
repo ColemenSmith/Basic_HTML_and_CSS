@@ -1,6 +1,6 @@
 ol {
-	list-style-type: upper-letters;
+	list-style-type: upper-roman;
 }
 ul {
-	list-style-type: triangle;
+	list-style-type: square;
 }
